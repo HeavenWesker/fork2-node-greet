@@ -6,7 +6,7 @@ module.exports = function greet(name, drunk){
     result += "World";
   }
   if(drunk){
-    result += ", you are drunk";
+    result += ", you are so sexy";
   }
   return result
 }
